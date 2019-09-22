@@ -1,0 +1,39 @@
+<person>
+	
+	<info>
+		<id>23</id>
+		<name>John Carter</name>
+
+		<addmissionDate>
+			<day>25</day>
+			<month>12</month>
+			<year>2015</year>
+		</addmissionDate>
+
+	</info>
+
+	<info>
+		<id>29</id>
+		<name>Bob Marshal</name>
+
+		<addmissionDate>			
+			<day>13</day>
+			<month>01</month>
+			<year>1999</year>
+		</addmissionDate>
+
+	</info>
+
+	<info>
+		<id>35</id>
+		<name>Clark Kent</name>
+
+		<addmissionDate>	
+			<day>17</day>
+			<month>06</month>
+			<year>2005</year>
+		</addmissionDate>
+		
+	</info>
+
+</person>
